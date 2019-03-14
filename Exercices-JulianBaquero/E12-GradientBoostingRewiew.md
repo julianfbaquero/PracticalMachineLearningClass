@@ -6,4 +6,4 @@ Search for and comment about the main differences between the algorithms impleme
 
 (2) [ XGB Classifier ](https://xgboost.readthedocs.io/en/latest/python/python_intro.html)
 
-Write at least 300 words explaining the difference.
+Con el fin de comprender e identificar diferencias entre el Gradient Boosting Classifier y el Xtreme Gradient Boosting Classifier, es importante aclarar que ninguno de estos es propiamente un algoritmo de Machine Learning. En sí, estos dos clasificadores se pueden entender bajo el concepto de "Meta-algoritmo", el cual se aplica a un conjunto de modelos de Machine Learning. Usualmente, este tipo de meta-algoritmos usan técnicas de ensamblajes (ensemble) para incrementar la capacidad de aprendizaje de los modelos individualmente y de esta forma crear un único modelo "fuerte" basado en eso modelos un poco más "débiles". 
